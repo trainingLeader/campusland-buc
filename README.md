@@ -1,2 +1,2 @@
 # campusland-buc
-Demo campus Buc
+Demo campus Bucucaramanga
